@@ -1,0 +1,61 @@
+body {
+    background-image: url("https://cdn.vox-cdn.com/thumbor/dfLVkP3E0uBvC2G0fJmIpJbwjmk=/0x0:3420x2609/2420x1613/filters:focal(1432x50:1978x596)/cdn.vox-cdn.com/uploads/chorus_image/image/66605627/483568059.jpg.0.jpg");
+    background-size: cover;    
+}
+
+.headertop {
+    font-size: x-large;
+    text-align: center;
+    color: white;
+}
+
+.pitchersList {
+ font-size:x-large;
+ text-align: center;
+ text-decoration: none;
+ color: white;
+}
+
+.bottomFooter {
+    text-align: center;
+    position:relative;
+    top: 100rem;
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+.container-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+}
+
+button:hover {
+    background-color: blue;
+    size: 100px;
+    width: 125px;
+    height: 65px;
+}
+
+.buttonPlay {
+    background-color: #1e90ff;
+}
+
+ul{
+    list-style: none;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+    
+}
+
+a:hover {
+    color: red;
+    font-size: xx-large;
+}
